@@ -60,7 +60,7 @@ export default [
         checkAttributes: true,
         indentLogicalExpressions: true
       }],
-      // '@stylistic/multiline-ternary': ['always-multiline'],
+      "@stylistic/multiline-ternary": ["error", "always-multiline"],
     },
   },
 
